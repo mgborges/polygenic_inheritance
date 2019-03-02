@@ -1,0 +1,4 @@
+p-value	q-value	pathway	source	external_id	members_input_overlap	members_input_overlap_geneids	size	effective_size
+0.0019139806165	0.022967767398	Neurexins and neuroligins	Reactome	R-HSA-6794361	GRM5; SHANK2	2915; 22941	57	57
+0.00449685343059	0.0269811205835	Protein-protein interactions at synapses	Reactome	R-HSA-6794362	GRM5; SHANK2	2915; 22941	88	88
+0.00743660480671	0.0297464192268	Glutamatergic synapse - Homo sapiens (human)	KEGG	path:hsa04724	GRM5; SHANK2	2915; 22941	114	114
